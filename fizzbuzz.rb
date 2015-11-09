@@ -1,7 +1,7 @@
-print "Input a word (e.g. FIZZ): "
+print "Input a word (e.g. BUZZ): "
 first_word = gets.chomp
 
-print "Input a word (e.g. BUZZ): "
+print "Input a word (e.g. FIZZ): "
 second_word = gets.chomp
 
 for x in 1..100
